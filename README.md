@@ -3,6 +3,8 @@
 ## 💡 Project Overview
 VibeChecker AI is an AI-powered web application that analyzes the sentiment of tweets. It classifies tweets as **Positive 😊** or **Negative 😡** using a **Logistic Regression** model trained on textual data.
 
+## App Preview
+
 ---
 
 ## 📁 Folder Structure
@@ -34,9 +36,13 @@ VIBECHECKER AI
 
 ## 🚀 Features
 ✅ **Real-time tweet sentiment analysis**
+
 ✅ **Preprocessing of text (stopwords removal, stemming, etc.)**
+
 ✅ **User-friendly UI with Streamlit**
+
 ✅ **Trained Logistic Regression model for predictions**
+
 ✅ **Modular and well-structured code**
 
 ---
