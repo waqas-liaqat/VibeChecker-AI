@@ -5,7 +5,7 @@ VibeChecker AI is an AI-powered web application that analyzes the sentiment of t
 
 ## App Preview
 
-![Preview](Artifacts/Preview.png)
+![Preview](https://github.com/waqas-liaqat/VibeChecker-AI/blob/main/Artifacts/preview.png)
 ---
 
 ## 📁 Folder Structure
